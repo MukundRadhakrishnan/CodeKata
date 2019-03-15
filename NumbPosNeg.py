@@ -1,5 +1,4 @@
-CodekataExample1=int(input("number is:"))
-print(CodekataExample1)
+CodekataExample1=int(input())
 if(CodekataExample1==0):
    print("Zero") 
 elif(CodekataExample1<0):
