@@ -1,8 +1,8 @@
-CodekataExample2 = int(input())
-if(CodekataExample2>0):
-	if(CodekataExample2%2==0):
-		print ("Even")
-	else:
-		print ("Odd")
+CodekataExample1=int(input("number is:"))
+print(CodekataExample1)
+if(CodekataExample1==0):
+   print("Zero") 
+elif(CodekataExample1<0):
+        print("Negative")
 else:
-	print ("invalid")
+    print("Positive")
