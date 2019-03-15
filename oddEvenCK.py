@@ -1,8 +1,8 @@
 CodekataExample2 = int(input())
 if(CodekataExample2>0):
 	if(CodekataExample2%2==0):
-		print ("even")
+		print ("Even")
 	else:
-		print ("odd")
+		print ("Odd")
 else:
 	print ("invalid")
